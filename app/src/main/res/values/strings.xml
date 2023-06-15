@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Coercion 9</string>
+    <string name="salir" translatable="false">Salir</string>
+    <string name="elegir" translatable="false">presione la imagen</string>
+    <string name="volver" translatable="false">Volver</string>
+    <string name="img1" translatable="false">Imagen 1</string>
+    <string name="TextView" translatable="false">texto</string>
+    <string name="text_view_label" translatable="false">Etiqueta de texto</string>
+
+</resources>
